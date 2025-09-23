@@ -1,5 +1,5 @@
 
-Olá, sou o Guilherme! 👋
+Olá, sou o Guilherme! 
 
 Sou um desenvolvedor apaixonado por back-end e aprendizado contínuo. Meu foco agora é aprimorar meu conhecimento em programação, construindo sistemas robustos e eficientes.
 
