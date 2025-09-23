@@ -6,6 +6,6 @@ Sou um desenvolvedor apaixonado por back-end e aprendizado contínuo. Meu foco a
 Estou sempre em busca de novos desafios, aprendendo sobre APIs RESTful e aprimorando minhas habilidades em estruturas de dados.
 
 
-Bora conectar?
+
 https://www.linkedin.com/in/guilherme-costa-fernandes-a778082b6/
 
