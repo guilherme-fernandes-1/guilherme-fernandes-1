@@ -21,4 +21,4 @@ Estudante de **Ciência da Computação** e apaixonado por transformar dados em 
 
 
 ### 📫 Conecte-se comigo
-* **LinkedIn: (https://www.linkedin.com/in/guilherme-costa-fernandes-a778082b6/)
+* LinkedIn: (https://www.linkedin.com/in/guilherme-costa-fernandes-a778082b6/)
