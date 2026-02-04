@@ -1,11 +1,24 @@
+# Olá, eu sou o Guilherme Costa Fernandes! 👋
 
-Olá, sou o Guilherme! 
-
-Sou um desenvolvedor apaixonado por back-end e aprendizado contínuo. Meu foco agora é aprimorar meu conhecimento em programação, construindo sistemas robustos e eficientes.
-
-Estou sempre em busca de novos desafios, aprendendo sobre APIs RESTful e aprimorando minhas habilidades em estruturas de dados.
+Estudante de **Ciência da Computação** e apaixonado por transformar dados em soluções estratégicas. Atualmente, foco meus estudos e projetos em **Data Science** e **Engenharia de Dados**.
 
 
 
-https://www.linkedin.com/in/guilherme-costa-fernandes-a778082b6/
+### 🛠️ Data Stack
 
+* **Linguagens:** Python (Pandas, NumPy, Matplotlib).
+* **Banco de Dados:** SQL Avançado com foco em **Oracle**.
+* **Visualização:** Iniciando jornada em **Power BI & DAX** para criação de Dashboards.
+* **Foco Atual:** Pipelines de dados (ETL), modelagem estatística e automação de processos.
+
+
+
+### 🏆 Projetos e Impacto
+
+* **Automação de Dados:** Desenvolvi uma solução que automatizou o controle de ativos da minha área, garantindo que indicadores manuais se tornassem registros digitais íntegros e ágeis.
+* **Pipeline Python + SQL:** Construção de um Dashboard Executivo 'end-to-end', realizando a extração de dados via SQL diretamente para análises em Python.
+
+
+
+### 📫 Conecte-se comigo
+* **LinkedIn: (https://www.linkedin.com/in/guilherme-costa-fernandes-a778082b6/)
